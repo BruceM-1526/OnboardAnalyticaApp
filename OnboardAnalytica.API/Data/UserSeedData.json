@@ -1,0 +1,72 @@
+[
+    {
+        "Username": "Surely",
+        "Email": "Surely.Masenya@gmail.com",
+        "Password": "password",
+        "Created": "2018-12-20",
+        "LastActive": "2018-12-20",
+        "Photos": [
+            {
+                "url": "https://randomuser.me/api/portraits/men/92.jpg",
+                "isMain": true,
+                "description": "Thee Man"
+            }
+        ]
+    },
+    {
+        "Username": "Ora",
+        "Email": "Oratilwe.Masenya@gmail.com",
+        "Password": "password",
+        "Created": "2018-12-20",
+        "LastActive": "2018-12-20",
+        "Photos": [
+            {
+                "url": "https://randomuser.me/api/portraits/women/64.jpg",
+                "isMain": true,
+                "description": "Ora Bae-Bae"
+            }
+        ]
+    },
+    {
+        "Username": "Nikkei",
+        "Email": "Nikita.Masenya@gmail.com",
+        "Password": "password",
+        "Created": "2018-12-20",
+        "LastActive": "2018-12-20",
+        "Photos": [
+            {
+                "url": "https://randomuser.me/api/portraits/women/51.jpg",
+                "isMain": true,
+                "description": "Diana N"
+            }
+        ]
+    },
+    {
+        "Username": "Bruce",
+        "Email": "brucycurlz@gmail.com",
+        "Password": "password",
+        "Created": "2018-12-20",
+        "LastActive": "2018-12-20",
+        "Photos": [
+            {
+                "url": "https://randomuser.me/api/portraits/men/73.jpg",
+                "isMain": true,
+                "description": "Bruce Mr Lee"
+            }
+        ]
+    },
+    {
+        "Username": "Silvia",
+        "Email": "SilviaM@gmail.com",
+        "Password": "password",
+        "Created": "2018-12-20",
+        "LastActive": "2018-12-20",
+        "Photos": [
+            {
+                "url": "https://randomuser.me/api/portraits/women/36.jpg",
+                "isMain": true,
+                "description": "Mme Silvia"
+            }
+        ]
+    }
+]
